@@ -1,5 +1,5 @@
 Minetest mod: travail
-Version: 0.2
+Version: 0.3
 Author: cmdskp
 Contact: cmdskp at hotmail dot com
 ==================================
@@ -12,6 +12,8 @@ Features:
 ---------
 	In unprotected areas, occasionally removes unsurrounded water source blocks to clear up.
 	Nightlight block - switches on/off with day/night cycle or on right-click.
+	Muddy water - when water source near dirt or when water next to muddy water.
+	(Many other things, yet to write up - see code)
 
 License of source code:
 -----------------------
@@ -34,7 +36,3 @@ Ideas:
 		Blast Protect I to IV - reduces damage from blasts
 		Water Breathe I to IV(on helmets) - reduces breath used
 		Knockback I to III (on sowrds) - increases chance of and pushes mobs back further
-
-TODO:
------
-	Muddy water - when water source near dirt or when water next to muddy water.
