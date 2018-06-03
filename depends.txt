@@ -1,0 +1,6 @@
+default
+doors	
+snow
+moreblocks
+farming
+magma
