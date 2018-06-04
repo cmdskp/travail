@@ -344,6 +344,8 @@ travail.register_furnace = function(a_type, a_subtance, a_speed, a_fuel_rate)
 	register_furnace_type(a_type, a_subtance, true, a_speed, a_fuel_rate)
 end
 
+--Last two values are: speed, fuel_rate
 travail.register_furnace("desert", "default:desert_cobble", 1.15, 1)
 travail.register_furnace("brick", "default:brick", 1.5, 1.5)
 travail.register_furnace("basalt", "magma:basalt_cobble", 1.25, 0.5)
+travail.register_furnace("mithril_brick", "travail:mithril_steel_brick", 1.5, 0.5)
