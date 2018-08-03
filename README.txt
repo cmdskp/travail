@@ -10,7 +10,8 @@ default
 
 Notes:
 ------
-This is a hobby project, not a full release.  It's provided as-is and offers no assurances of reliability, support, etc.
+This is a hobby project, not a full release.
+It's provided as-is and offers no assurances of function, reliability, support, etc.
 It is free though! :)  It was uploaded here, on request by one person, and to provide an origin of who the mod came from.
 Plus, it gives something for nothing to any willing to delve into it's inner workings.
  
