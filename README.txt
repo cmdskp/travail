@@ -10,10 +10,13 @@ default
 
 Notes:
 ------
-This is a hobby project, not a full release.  It's provided as-is and offers no assurances of reliability, support, etc.  It is free though! :)  It was uploaded here, on request by one person, and to provide an origin of who the mod came from.  Plus, it gives something for nothing to any willing to delve into it's inner workings.
+This is a hobby project, not a full release.  It's provided as-is and offers no assurances of reliability, support, etc.
+It is free though! :)  It was uploaded here, on request by one person, and to provide an origin of who the mod came from.
+Plus, it gives something for nothing to any willing to delve into it's inner workings.
  
   
-I don't wish attention for this(hence, why no project tags), as that tends to get messy and require lots more time spent on minor things, but github only allows public projects.  If you find something useful from it though, that's good.
+I don't wish attention for this(hence, why no project tags), as that tends to get messy and require lots more time spent
+on minor things, but github only allows public projects.  If you find something useful from it though, that's good.
 
 Features:
 ---------
