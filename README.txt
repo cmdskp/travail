@@ -24,6 +24,8 @@ License of media:
 CC-by-SA 3.0 or higher(https://creativecommons.org/licenses/by/3.0/)
 	homedecor_stained_glass.png; credit to: homedecor minetest mod
 	sulphur_sizzle.ogg; altered, original credit to: Mike Koeng http://soundbible.com/1090-Hot-Sizzling.html
+	furnace, chest, ingot, fence, brick, cobble, stone door graphics based on Minetest graphics by: celeron55, Perttu Ahola <celeron55@gmail.com>
+	bucket graphics based on Minetest game graphics by: ElementW
 
 Ideas:
 ------
