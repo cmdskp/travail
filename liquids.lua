@@ -523,7 +523,7 @@ core.register_abm({
 	action = function(a_position)
 		local temp_level =  core.get_node(a_position).param2
 		if temp_level<2 then
-			core.set_node(a_position, {name="travail:basalt"})
+			core.set_node(a_position, {name="magma:basalt"})
 		end
 	end,
 })
